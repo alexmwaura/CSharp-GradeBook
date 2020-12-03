@@ -292,3 +292,6 @@ __pycache__/
 
 # Visual Studio Code Settings
 .vscode/
+src/GradeBook/bin/
+src/GradeBook/obj/
+
